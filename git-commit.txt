@@ -1,0 +1,9 @@
+ Short status flags are :
+   git status --Short     // status short me dikay deta hai
+  
+
+note : Short status flags are :
+ ?? or U: untrack file 
+ M : Modify file
+ A : Stage file
+ D : Deleted file
