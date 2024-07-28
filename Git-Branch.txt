@@ -11,3 +11,5 @@ For changing branch
 git checkout hello-world   / for branch changing
 
 -b  // isse branch create hoke usme switch ho jate hai
+
+demo for check suro branch
