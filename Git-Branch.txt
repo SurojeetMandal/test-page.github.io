@@ -6,9 +6,3 @@ this is a fifth line for testign git origin main
 this is a six line for testing git origin main
 this isa phatta balis for changing push request
 this isa phatta balis for changing push request
-this isa phatta balis for changing push request
-this isa phatta balis for changing push request
-this isa phatta balis for changing push request
-this isa phatta balis for changing push request
-this isa phatta balis for changing push request
-this isa phatta balis for changing push request
